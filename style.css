@@ -3,21 +3,23 @@
 }
 
 .home {
-    background-color: #00c4b4;    
+    background-color: #00c4b4;
 }
 
-td{  
+td {
     background-color: #424250;
 }
 
-td,th{
+td,
+th {
     padding: 6px 8px;
 }
 
-h1, h2 {
+h1,
+h2 {
     color: black;
 }
 
 body {
-    color: white; 
+    color: white;
 }
